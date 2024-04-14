@@ -1,1 +1,1 @@
-# RecPPT
+# RecGPT
